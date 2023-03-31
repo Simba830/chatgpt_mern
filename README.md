@@ -1,0 +1,1 @@
+#Go to each client, server directory and run run.bat
